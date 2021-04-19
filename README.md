@@ -1,4 +1,5 @@
-<img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_519,h_180,al_c,q_85,usm_0.66_1.00_0.01/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.webp">
+<img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_519,h_180,al_c,q_85,usm_0.66_1.00_0.01/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.webp" alt="Nand2Tetris" width="500" height="100">
+
 # Nand2Tetris
 
 Few assembly programs completed for CSCE 312 in Spring 2020.
